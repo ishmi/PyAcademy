@@ -1,3 +1,4 @@
+# Print foo is multiple of 3, bar if multiple of 5 and foobar if multiple of 15
 print("how far do you want to go?")
 num = int(input())
 for j in range (1, num + 1):
