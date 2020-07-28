@@ -1,0 +1,5 @@
+print("What is your first name?")
+f_name = input()
+print("What is your last name?")
+l_name = input()
+print("Hello", f_name, l_name, ".  I hope you are paying attention to your amazing teacher.")
